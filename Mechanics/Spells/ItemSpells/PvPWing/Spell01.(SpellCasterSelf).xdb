@@ -22,9 +22,6 @@
 	<launchWhenReady>true</launchWhenReady>
 	<needInFront>false</needInFront>
 	<mechanics type="gameMechanics.constructor.schemes.spell.SpellMechanics">
-		<cooldown>
-			<duration>40000</duration>
-		</cooldown>
 		<casterImpacts>
 			<Item type="gameMechanics.elements.impacts.ImpactAvatarJump">
 				<destination type="gameMechanics.map.destination.RelativeTrailPos">
@@ -33,11 +30,11 @@
 							<yaw type="constructor.basicElements.AngleRadians" />
 							<faceSourcePos>false</faceSourcePos>
 						</base>
-						<offset>100</offset>
+						<offset>300</offset>
 						<yaw type="constructor.basicElements.AngleRadians" />
 					</center>
 				</destination>
-				<speed>20</speed>
+				<speed>250</speed>
 				<impactsOnLand>
 					<Item type="gameMechanics.elements.impacts.BuffDetacher">
 						<buff href="Buff01.(BuffResource).xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)" />
