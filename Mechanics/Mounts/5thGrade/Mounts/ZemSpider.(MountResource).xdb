@@ -5,7 +5,11 @@
 	</Header>
 	<Name href="ZemSpider.txt" />
 	<grade>5</grade>
+<<<<<<< HEAD
 	<speed>9.05</speed>
+=======
+	<speed>5.05</speed>
+>>>>>>> parent of 2d36a946b... Changement
 	<speedDelta>0.01</speedDelta>
 	<health>2.5</health>
 	<healthDelta>0.03</healthDelta>
@@ -50,9 +54,13 @@
 	<basicSkin href="/Mechanics/Mounts/Skins/BattleMounts/BattleMountZemSpider.(MountSkin).xdb#xpointer(/gameMechanics.constructor.schemes.mount.MountSkin)" />
 	<alternativeSkins />
 	<penaltyCalcer type="gameMechanics.elements.calcers.OverLevelPenaltyCalcer">
-		<level>10</level>
+		<level>55</level>
 		<exponent>0.917</exponent>
 	</penaltyCalcer>
 	<ignoreWater>true</ignoreWater>
+<<<<<<< HEAD
 	<corpulence>6.1</corpulence>
+=======
+	<corpulence>2.1</corpulence>
+>>>>>>> parent of 2d36a946b... Changement
 </gameMechanics.constructor.schemes.mount.MountResource>
