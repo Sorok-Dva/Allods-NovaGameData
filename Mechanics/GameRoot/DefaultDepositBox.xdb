@@ -12,7 +12,7 @@
 	<itemClass href="/Mechanics/ItemClasses/Other.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemClass)" />
 	<functionalPart type="gameMechanics.constructor.schemes.item.DepositBoxShape">
 		<shape href="/Mechanics/ContainerShapes/DepositBox.xdb#xpointer(/gameMechanics.constructor.schemes.item.ContainerShape)" />
-		<baseSize>12</baseSize>
+		<baseSize>24</baseSize>
 	</functionalPart>
 	<level>1</level>
 	<requiredLevel>1</requiredLevel>
