@@ -13,7 +13,7 @@
 			<predicate type="gameMechanics.elements.predicates.PredicateIsMountAction" />
 		</Item>
 	</effects>
-	<duration>600000</duration>
+	<duration>720000</duration>
 	<isStackable>false</isStackable>
 	<isHelpful>false</isHelpful>
 	<groups>
