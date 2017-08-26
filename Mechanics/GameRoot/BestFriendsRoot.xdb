@@ -8,7 +8,7 @@
 	<afterTeleportBuff href="/Mechanics/BestFriends/Buffs/AfterTeleportBuff.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)" />
 	<teleportSpellStub href="/Mechanics/BestFriends/Spells/Teleport.(SpellCasterSelf).xdb#xpointer(/gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf)" />
 	<contentKey href="/System/ContentKeys/BestFriends.(ContentKey).xdb#xpointer(/basement.contentkey.ContentKey)" />
-	<maxMountGrade>4</maxMountGrade>
+	<maxMountGrade>5</maxMountGrade>
 	<effects>
 		<Item type="gameMechanics.elements.effects.EffectTrigger">
 			<triggers>
