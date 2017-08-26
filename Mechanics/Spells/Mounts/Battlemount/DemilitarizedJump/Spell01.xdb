@@ -48,7 +48,7 @@
 				<sum>1</sum>
 			</scaler>
 		</cooldown>-->
-		<casterConditions>
+		<!--<casterConditions>
 			<Item type="gameMechanics.elements.predicates.PredicateMounted">
 				<hideText>false</hideText>
 			</Item>
@@ -56,7 +56,7 @@
 				<hideText>false</hideText>
 				<group href="/Mechanics/Mounts/Groups/BattlemountDemilitarized4Grade.xdb#xpointer(/gameMechanics.constructor.schemes.mount.MountGroupResource)" />
 			</Item>
-		</casterConditions>
+		</casterConditions> -->
 		<casterImpacts>
 			<Item type="gameMechanics.elements.impacts.ImpactAvatarJump">
 				<destination type="gameMechanics.map.destination.RelativeTrailPos">

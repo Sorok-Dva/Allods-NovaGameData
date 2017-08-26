@@ -4,7 +4,8 @@
 		<resourceId>44291</resourceId>
 	</Header>
 	<name href="Empire1_Yasker_Name.txt" />
-	<corpulence>4.5</corpulence>
+	<corpulence>5.5</corpulence>
+	<aggroRadius>15</aggroRadius>
 	<spawnLocation>
 		<position x="11569.576172" y="12858.213867" z="-19.547501" />
 		<zone href="/Maps/Hadagan/Zones/ZoneHadagan1/E1_Tower.(ZoneResource).xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />

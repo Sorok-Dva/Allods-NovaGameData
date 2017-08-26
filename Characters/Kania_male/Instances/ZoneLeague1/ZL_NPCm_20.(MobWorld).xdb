@@ -4,7 +4,8 @@
 		<resourceId>46328</resourceId>
 	</Header>
 	<name href="ZL_NPCm_20.txt" />
-	<corpulence>3.5</corpulence>
+	<corpulence>5.5</corpulence>
+	<aggroRadius>15</aggroRadius>
 	<spawnLocation>
 		<!-- <position x="13748.482422" y="6715.525879" z="36.862000" /> -->
 		<position x="13747.700000" y="6753.800000" z="-0.300000" />
