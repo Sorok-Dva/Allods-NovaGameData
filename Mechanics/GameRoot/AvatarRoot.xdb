@@ -855,13 +855,22 @@
 			<talentPoints>1</talentPoints>
 			<fairyExperienceForLevel>17274</fairyExperienceForLevel>
 		</Item>
+		<Item>
+			<level>57</level>
+			<experienceForLevel>8364340</experienceForLevel>
+			<primaryStatGain>8</primaryStatGain>
+			<secondaryStatGain>2</secondaryStatGain>
+			<talentPoints>1</talentPoints>
+			<fairyExperienceForLevel>17756</fairyExperienceForLevel>
+		</Item>
+		
 	</avatarLevels>
 	<pvpFlagDurationMinutes>5</pvpFlagDurationMinutes>
 	<startingCurrencies>
 		<Item>
 			<currency href="/Mechanics/AlternativeCurrencies/Myrrh.xdb#xpointer(/gameMechanics.constructor.schemes.item.AlternativeCurrency)" />
 			<count type="gameMechanics.elements.calcers.FloatData">
-				<value>250</value>
+				<value>5000</value>
 			</count>
 		</Item>
 		<Item>
@@ -872,16 +881,20 @@
 		</Item>
 		<Item>
 			<currency href="/Mechanics/AlternativeCurrencies/MountSlot.xdb#xpointer(/gameMechanics.constructor.schemes.item.AlternativeCurrency)" />
-			<count type="gameMechanics.elements.calcers.CalcerIf">
-				<predicate type="gameMechanics.elements.predicates.PredicateHasContentKey">
-					<key href="/System/ContentKeys/P2P_shard/P2P_shard_Zones.(ContentKey).xdb#xpointer(/basement.contentkey.ContentKey)" />
-				</predicate>
-				<calcerIf type="gameMechanics.elements.calcers.FloatData">
-					<value>12</value>
-				</calcerIf>
-				<calcerElse type="gameMechanics.elements.calcers.FloatData">
-					<value>3</value>
-				</calcerElse>
+			<count type="gameMechanics.elements.calcers.FloatData">
+				<value>4</value>
+			</count>
+		</Item>
+		<Item>
+			<currency href="/Mechanics/AlternativeCurrencies/MountFood.xdb#xpointer(/gameMechanics.constructor.schemes.item.AlternativeCurrency)" />
+			<count type="gameMechanics.elements.calcers.FloatData">
+				<value>10</value>
+			</count>
+		</Item>
+		<Item>
+			<currency href="/Mechanics/AlternativeCurrencies/WorldChat.xdb#xpointer(/gameMechanics.constructor.schemes.item.AlternativeCurrency)" />
+			<count type="gameMechanics.elements.calcers.FloatData">
+				<value>20</value>
 			</count>
 		</Item>
 	</startingCurrencies>
