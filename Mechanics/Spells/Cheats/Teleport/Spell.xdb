@@ -12,7 +12,7 @@
 	</mechanics>
 	<Name href="Name.txt" />
 	<range type="gameMechanics.elements.calcers.FloatData">
-		<value>4000</value>
+		<value>50000</value>
 	</range>
 	<needLos>false</needLos>
 	<targetType>STTPoint</targetType>

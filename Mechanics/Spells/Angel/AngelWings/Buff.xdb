@@ -10,6 +10,11 @@
 		<Item type="gameMechanics.elements.effects.AddPlane">
 			<plane href="/Mechanics/Planes/GMInvisibility.xdb#xpointer(/gameMechanics.world.visibility.Plane)"/>
 		</Item>
+		<Item type="gameMechanics.elements.effects.EffectSpeedModifier">
+			<effectScaler type="gameMechanics.elements.scalers.LinearEffectScaler">
+				<coeff>6</coeff>
+			</effectScaler>
+		</Item>
 		<Item type="gameMechanics.elements.effects.UltimateVisibility">
             <ignoreGMPlane>false</ignoreGMPlane>
         </Item>
