@@ -5,7 +5,7 @@
 	</Header>
 	<Name href="ZemSpider.txt" />
 	<grade>5</grade>
-	<speed>8.05</speed>
+	<speed>9.05</speed>
 	<speedDelta>0.01</speedDelta>
 	<health>2.5</health>
 	<healthDelta>0.03</healthDelta>
@@ -53,6 +53,6 @@
 		<level>10</level>
 		<exponent>0.917</exponent>
 	</penaltyCalcer>
-	<ignoreWater>false</ignoreWater>
-	<corpulence>5.1</corpulence>
+	<ignoreWater>true</ignoreWater>
+	<corpulence>6.1</corpulence>
 </gameMechanics.constructor.schemes.mount.MountResource>
