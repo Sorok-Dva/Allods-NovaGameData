@@ -3,7 +3,7 @@
 	<Header>
 		<resourceId>142508032</resourceId>
 	</Header>
-	<maxGrade>5</maxGrade>
+	<maxGrade>7</maxGrade>
 	<slotCurrency href="/Mechanics/AlternativeCurrencies/MountSlot.xdb#xpointer(/gameMechanics.constructor.schemes.item.AlternativeCurrency)" />
 	<foodCurrency href="/Mechanics/AlternativeCurrencies/MountFood.xdb#xpointer(/gameMechanics.constructor.schemes.item.AlternativeCurrency)" />
 	<hungryDiscountFactor>0.33</hungryDiscountFactor>

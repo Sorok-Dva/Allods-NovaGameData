@@ -13,7 +13,7 @@
 	<itemClass href="/Mechanics/ItemClasses/Other.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemClass)" />
 	<functionalPart type="gameMechanics.constructor.schemes.item.Bag">
 		<shape href="/Mechanics/ContainerShapes/FlatBox.xdb#xpointer(/gameMechanics.constructor.schemes.item.ContainerShape)" />
-		<baseSize>40</baseSize>
+		<baseSize>48</baseSize>
 	</functionalPart>
 	<level>1</level>
 	<requiredLevel>1</requiredLevel>
