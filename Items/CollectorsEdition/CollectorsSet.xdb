@@ -7,7 +7,7 @@
 	<image href="/Interface/Icons/Equipment/Cloak/CloakElvenBlue.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
 	<source>Vendor</source>
 	<StackCount>1</StackCount>
-	<StackPrice>50</StackPrice>
+	<StackPrice>0</StackPrice>
 	<visualElement href="" />
 	<dressSet>
 		<Item href="/Items/VisualItems/Shirt/Cloth_A_41SpringEventShirt.(VisualItem).xdb#xpointer(/gameMechanics.constructor.schemes.item.VisualItem)" />
@@ -15,7 +15,7 @@
 	</dressSet>
 	<nameChecked>true</nameChecked>
 	<slot>UNDRESSABLE</slot>
-	<ritual>false</ritual>
+	<ritual>true</ritual>
 	<itemClass href="/Mechanics/ItemClasses/Other.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemClass)" />
 	<level>1</level>
 	<requiredLevel>1</requiredLevel>

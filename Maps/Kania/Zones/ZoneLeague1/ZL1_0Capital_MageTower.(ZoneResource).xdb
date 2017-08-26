@@ -12,4 +12,5 @@
 	</graveyards>
 	<parentZone href="ZL1_0Capital.(ZoneResource).xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 	<pvpType href="/Mechanics/ZonePvpTypes/HomelandLeague.xdb#xpointer(/gameMechanics.map.zone.Homeland)" />
+	<mountsProhibited>false</mountsProhibited>
 </gameMechanics.map.zone.ZoneResource>
