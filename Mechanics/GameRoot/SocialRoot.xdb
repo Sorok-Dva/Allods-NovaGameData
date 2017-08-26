@@ -5,9 +5,9 @@
 	</Header>
 	<guildAllodsRegistry href="/Mechanics/GuildAllods/GuildAllodsRegistry.xdb#xpointer(/gameMechanics.constructor.schemes.guild.GuildAllodsRegistry)" />
 	<reputationTable href="/Mechanics/Reputations/ReputationTable.xdb#xpointer(/gameMechanics.constructor.schemes.reputation.ReputationTable)" />
-	<weakFactionExpFactor>1.1</weakFactionExpFactor>
+	<weakFactionExpFactor>1.05</weakFactionExpFactor>
 	<maxGroupSize>6</maxGroupSize>
-	<maxGroupCountInRaid>4</maxGroupCountInRaid>
+	<maxGroupCountInRaid>6</maxGroupCountInRaid>
 	<cantInviteData href="CantInviteData.xdb#xpointer(/gameMechanics.world.ClientData)" />
 	<cantBeInvitedData href="CantBeInvitedData.xdb#xpointer(/gameMechanics.world.ClientData)" />
 	<openBoxContestWin href="OpenBoxContestWin.xdb#xpointer(/gameMechanics.world.ClientData)" />
@@ -21,7 +21,7 @@
 	<openBoxJackpotWin href="OpenBoxJackpotWin.xdb#xpointer(/gameMechanics.world.ClientData)" />
 	<openBoxJackpotWinPersonal href="OpenBoxJackpotWinPersonal.xdb#xpointer(/gameMechanics.world.ClientData)" />
 	<bearingBuffsGroup href="/Mechanics/Spells/Groups/BearingBuffs.xdb#xpointer(/gameMechanics.constructor.basicInterfaces.ActionGroup)" />
-	<minMentorLevel>30</minMentorLevel>
+	<minMentorLevel>51</minMentorLevel>
 	<minApprenticeLevel>9</minApprenticeLevel>
 	<apprenticeLevelCapDiff>1</apprenticeLevelCapDiff>
 	<mentorCooldownError href="ClientData/Mentor/MentorCooldownError.xdb#xpointer(/gameMechanics.world.ClientData)" />
