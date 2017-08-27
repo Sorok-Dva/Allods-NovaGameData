@@ -23,7 +23,7 @@
 	<needInFront>false</needInFront>
 	<mechanics type="gameMechanics.constructor.schemes.spell.SpellMechanics">
 		<cooldown>
-			<duration>40000</duration>
+			<duration>0</duration>
 		</cooldown>
 		<casterImpacts>
 			<Item type="gameMechanics.elements.impacts.ImpactAvatarJump">
