@@ -58,6 +58,7 @@
 		</cues>
 	</interactions>
 	<!-- <lootDropModifier type="gameMechanics.world.mob.NoLoot" /> -->
+	<lootTable href="/World/LootTables/Yasker/Yasker.xdb#xpointer(/gameMechanics.constructor.schemes.item.LootTableResource)" />
 	<interestingCorpse>false</interestingCorpse>
 	<levelMax type="gameMechanics.formulas.IntConstantValue">
 		<value>80</value>
