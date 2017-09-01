@@ -9,7 +9,7 @@
 	<DefaultAction>8</DefaultAction>
 	<visualScripts href="/Spells/VisScripts/Priest/HolySmite.(SpellVisScripts).xdb#xpointer(/SpellVisScripts)" />
 	<range type="gameMechanics.elements.calcers.FloatData">
-		<value>100</value>
+		<value>500000</value>
 	</range>
 	<level>1</level>
 	<prepareDuration>0</prepareDuration>
@@ -29,5 +29,5 @@
 		</casterImpacts>
 		<targetImpacts />
 	</mechanics>
-	<speed>0</speed>
+	<speed>50</speed>
 </gameMechanics.constructor.schemes.spell.singleTarget.SpellSingleTarget>

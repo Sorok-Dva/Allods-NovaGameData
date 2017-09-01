@@ -25,5 +25,5 @@
 			</Item>
 		</casterImpacts>
 	</mechanics>
-	<speed>0</speed>
+	<speed>150</speed>
 </gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf>

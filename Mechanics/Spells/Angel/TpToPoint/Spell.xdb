@@ -9,7 +9,7 @@
 	<DefaultAction>3</DefaultAction>
 	<visualScripts href="/Spells/VisScripts/Mage/DispelMagic.(SpellVisScripts).xdb#xpointer(/SpellVisScripts)" />
 	<range type="gameMechanics.elements.calcers.FloatData">
-		<value>50000</value>
+		<value>100000</value>
 	</range>
 	<level>1</level>
 	<prepareDuration>0</prepareDuration>
@@ -18,7 +18,7 @@
 	<targetType>STTPoint</targetType>
 	<isAggro>false</isAggro>
 	<replaceLowRanks>false</replaceLowRanks>
-	<isWorkOnDead>false</isWorkOnDead>
+	<isWorkOnDead>true</isWorkOnDead>
 	<iffPolicy>FriendsEnemies</iffPolicy>
 	<triggersGlobalCooldown>false</triggersGlobalCooldown>
 	<mechanics type="gameMechanics.constructor.schemes.spell.SpellMechanics">
@@ -29,5 +29,5 @@
 		</casterImpacts>
 		<targetImpacts />
 	</mechanics>
-	<speed>0</speed>
+	<speed>10</speed>
 </gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf>
