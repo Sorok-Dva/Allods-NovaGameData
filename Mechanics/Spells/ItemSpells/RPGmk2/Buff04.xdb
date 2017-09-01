@@ -35,7 +35,7 @@
 			<resolventFor type="gameMechanics.elements.addresseeFinders.AddresseeFinderCaster" />
 		</Item>
 	</effects>
-	<duration>3000</duration>
+	<duration>5500</duration>
 	<groups>
 		<Item href="/Mechanics/Spells/Groups/RemovesNot.xdb#xpointer(/gameMechanics.constructor.basicInterfaces.ActionGroup)" />
 	</groups>

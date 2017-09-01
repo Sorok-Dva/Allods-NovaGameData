@@ -4,7 +4,7 @@
 		<resourceId>199541778</resourceId>
 	</Header>
 	<effects />
-	<duration>4500</duration>
+	<duration>0</duration>
 	<isStackable>false</isStackable>
 	<canBeSaved>false</canBeSaved>
 	<isClientReplicated>false</isClientReplicated>
