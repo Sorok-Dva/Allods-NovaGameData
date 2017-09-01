@@ -53,6 +53,6 @@
 		<level>10</level>
 		<exponent>0.917</exponent>
 	</penaltyCalcer>
-	<ignoreWater>true</ignoreWater>
+	<ignoreWater>false</ignoreWater>
 	<corpulence>6.1</corpulence>
 </gameMechanics.constructor.schemes.mount.MountResource>
