@@ -4,13 +4,13 @@
 		<resourceId>334062622</resourceId>
 	</Header>
 	<Name href="GoldenWolf.(MountResource).Name.txt" />
-	<grade>4</grade>
-	<speed>0.75</speed>
+	<grade>5</grade>
+	<speed>8.05</speed>
 	<speedDelta>0.01</speedDelta>
-	<health>0.3</health>
-	<healthDelta>0.005</healthDelta>
+	<health>2.5</health>
+	<healthDelta>0.03</healthDelta>
 	<regen>0.2</regen>
-	<prepareDuration>2100</prepareDuration>
+	<prepareDuration>50</prepareDuration>
 	<prepareDurationDelta>30</prepareDurationDelta>
 	<contextActions>
 		<Item href="/Mechanics/Spells/Mounts/Golden/Wolf/Spell01.xdb#xpointer(/gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf)" />
