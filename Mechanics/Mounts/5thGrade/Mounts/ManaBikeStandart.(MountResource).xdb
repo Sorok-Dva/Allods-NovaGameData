@@ -5,9 +5,9 @@
 	</Header>
 	<Name href="ManaBikeStandart.txt" />
 	<grade>5</grade>
-	<speed>5.05</speed>
+	<speed>8.05</speed>
 	<speedDelta>0.01</speedDelta>
-	<health>1.5</health>
+	<health>2.5</health>
 	<healthDelta>0.03</healthDelta>
 	<regen>0.2</regen>
 	<prepareDuration>50</prepareDuration>

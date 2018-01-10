@@ -5,12 +5,12 @@
 	</Header>
 	<Name href="JetPackGoblinBall.txt" />
 	<grade>5</grade>
-	<speed>1.9</speed>
+	<speed>8.05</speed>
 	<speedDelta>0.01</speedDelta>
-	<health>1.0</health>
+	<health>2.5</health>
 	<healthDelta>0.03</healthDelta>
 	<regen>0.2</regen>
-	<prepareDuration>500</prepareDuration>
+	<prepareDuration>50</prepareDuration>
 	<prepareDurationDelta>30</prepareDurationDelta>
 	<ridingEffects>
 		<Item type="gameMechanics.elements.effects.Hover" />
