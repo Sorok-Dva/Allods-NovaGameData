@@ -5,12 +5,12 @@
 	</Header>
 	<Name href="MammothItemMall.txt" />
 	<grade>5</grade>
-	<speed>0.8</speed>
+	<speed>8.05</speed>
 	<speedDelta>0.01</speedDelta>
-	<health>0.5</health>
-	<healthDelta>0.005</healthDelta>
+	<health>2.5</health>
+	<healthDelta>0.03</healthDelta>
 	<regen>0.2</regen>
-	<prepareDuration>1200</prepareDuration>
+	<prepareDuration>50</prepareDuration>
 	<prepareDurationDelta>30</prepareDurationDelta>
 	<contextActions>
 		<Item href="/Mechanics/Spells/Mounts/Mammoth/Spell01.xdb#xpointer(/gameMechanics.constructor.schemes.spell.singleTarget.SpellSingleTarget)" />
