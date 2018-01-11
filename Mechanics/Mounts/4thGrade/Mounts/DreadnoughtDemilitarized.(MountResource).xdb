@@ -4,13 +4,13 @@
 		<resourceId>317636615</resourceId>
 	</Header>
 	<Name href="DreadnoughtDemilitarized.(MountResource).Name.txt" />
-	<grade>4</grade>
-	<speed>0.75</speed>
+	<grade>5</grade>
+	<speed>8.05</speed>
 	<speedDelta>0.01</speedDelta>
-	<health>0.7</health>
+	<health>2.5</health>
 	<healthDelta>0.03</healthDelta>
-	<regen>0.15</regen>
-	<prepareDuration>1500</prepareDuration>
+	<regen>0.2</regen>
+	<prepareDuration>50</prepareDuration>
 	<prepareDurationDelta>30</prepareDurationDelta>
 	<contextActions>
 		<Item href="/Mechanics/Spells/Mounts/Battlemount/DemilitarizedJump/Spell01.xdb#xpointer(/gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf)" />

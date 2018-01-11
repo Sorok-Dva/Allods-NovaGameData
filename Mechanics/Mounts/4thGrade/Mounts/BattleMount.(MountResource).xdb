@@ -4,13 +4,13 @@
 		<resourceId>274484241</resourceId>
 	</Header>
 	<Name href="BattleMount.txt" />
-	<grade>4</grade>
-	<speed>0.75</speed>
+	<grade>5</grade>
+	<speed>8.05</speed>
 	<speedDelta>0.01</speedDelta>
-	<health>1.1</health>
+	<health>2.5</health>
 	<healthDelta>0.03</healthDelta>
 	<regen>0.2</regen>
-	<prepareDuration>1500</prepareDuration>
+	<prepareDuration>50</prepareDuration>
 	<prepareDurationDelta>30</prepareDurationDelta>
 	<contextActions>
 		<Item href="/Mechanics/Spells/Mounts/BattleStation/Overdrive/Spell01.xdb#xpointer(/gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf)" />
