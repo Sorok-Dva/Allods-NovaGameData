@@ -4,13 +4,13 @@
 		<resourceId>229204064</resourceId>
 	</Header>
 	<Name href="BattleMount.txt" />
-	<grade>3</grade>
-	<speed>0.6</speed>
+	<grade>5</grade>
+	<speed>8.05</speed>
 	<speedDelta>0.01</speedDelta>
-	<health>0.9</health>
+	<health>2.5</health>
 	<healthDelta>0.03</healthDelta>
 	<regen>0.2</regen>
-	<prepareDuration>1800</prepareDuration>
+	<prepareDuration>50</prepareDuration>
 	<prepareDurationDelta>30</prepareDurationDelta>
 	<contextActions>
 		<Item href="/Mechanics/Spells/Mounts/Battlethrone/Shield/Spell01.xdb#xpointer(/gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf)" />
