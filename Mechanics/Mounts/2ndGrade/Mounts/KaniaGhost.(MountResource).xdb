@@ -4,13 +4,13 @@
 		<resourceId>274575372</resourceId>
 	</Header>
 	<Name href="KaniaMountGhost.txt" />
-	<grade>2</grade>
-	<speed>0.35</speed>
+	<grade>5</grade>
+	<speed>8.05</speed>
 	<speedDelta>0.01</speedDelta>
-	<health>0.2</health>
-	<healthDelta>0.005</healthDelta>
-	<regen>0.15</regen>
-	<prepareDuration>2400</prepareDuration>
+	<health>2.5</health>
+	<healthDelta>0.03</healthDelta>
+	<regen>0.2</regen>
+	<prepareDuration>50</prepareDuration>
 	<prepareDurationDelta>30</prepareDurationDelta>
 	<basicSkin href="/Mechanics/Mounts/Skins/Horses/KaniaGhost.(MountSkin).xdb#xpointer(/gameMechanics.constructor.schemes.mount.MountSkin)" />
 	<alternativeSkins>

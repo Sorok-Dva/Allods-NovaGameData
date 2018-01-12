@@ -4,14 +4,14 @@
 		<resourceId>195325952</resourceId>
 	</Header>
 	<Name href="GrayWolfMount.txt" />
-	<grade>1</grade>
-	<speed>1.1</speed>
-	<speedDelta>1.01</speedDelta>
-	<health>0.075</health>
-	<healthDelta>0.005</healthDelta>
-	<regen>0.1</regen>
-	<prepareDuration>2500</prepareDuration>
-	<prepareDurationDelta>25</prepareDurationDelta>
+	<grade>5</grade>
+	<speed>8.05</speed>
+	<speedDelta>0.01</speedDelta>
+	<health>2.5</health>
+	<healthDelta>0.03</healthDelta>
+	<regen>0.2</regen>
+	<prepareDuration>50</prepareDuration>
+	<prepareDurationDelta>30</prepareDurationDelta>
 	<ridingEffects>
 		<Item type="gameMechanics.elements.effects.ImmunityToBuffs">
 			<predicates>

@@ -3,14 +3,14 @@
 	<Header>
 		<resourceId>148690959</resourceId>
 	</Header>
-	<grade>1</grade>
-	<speed>0.9</speed>
-	<speedDelta>0</speedDelta>
-	<health>0.3</health>
-	<healthDelta>0</healthDelta>
-	<regen>0.1</regen>
-	<prepareDuration>1250</prepareDuration>
-	<prepareDurationDelta>0</prepareDurationDelta>
+	<grade>5</grade>
+	<speed>8.05</speed>
+	<speedDelta>0.01</speedDelta>
+	<health>2.5</health>
+	<healthDelta>0.03</healthDelta>
+	<regen>0.2</regen>
+	<prepareDuration>50</prepareDuration>
+	<prepareDurationDelta>30</prepareDurationDelta>
 	<timeLeft>
 		<day>0</day>
 		<hour>2</hour>

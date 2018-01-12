@@ -4,13 +4,13 @@
 		<resourceId>308405253</resourceId>
 	</Header>
 	<Name href="PonyClockwork.txt" />
-	<grade>4</grade>
-	<speed>0.65</speed>
+	<grade>5</grade>
+	<speed>8.05</speed>
 	<speedDelta>0.01</speedDelta>
-	<health>0.4</health>
-	<healthDelta>0.005</healthDelta>
+	<health>2.5</health>
+	<healthDelta>0.03</healthDelta>
 	<regen>0.2</regen>
-	<prepareDuration>1500</prepareDuration>
+	<prepareDuration>50</prepareDuration>
 	<prepareDurationDelta>30</prepareDurationDelta>
 	<basicSkin href="/Mechanics/Mounts/Skins/Ponies/PonyClockwork.(MountSkin).xdb#xpointer(/gameMechanics.constructor.schemes.mount.MountSkin)" />
 	<alternativeSkins>

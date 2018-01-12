@@ -5,14 +5,14 @@
 	</Header>
 	<Name href="BattleMountApril.txt" />
 	<isProbe>true</isProbe>
-	<grade>2</grade>
-	<speed>1.65</speed>
-	<speedDelta>0</speedDelta>
-	<health>3</health>
-	<healthDelta>0</healthDelta>
-	<regen>0.15</regen>
-	<prepareDuration>1050</prepareDuration>
-	<prepareDurationDelta>0</prepareDurationDelta>
+	<grade>5</grade>
+	<speed>8.05</speed>
+	<speedDelta>0.01</speedDelta>
+	<health>2.5</health>
+	<healthDelta>0.03</healthDelta>
+	<regen>0.2</regen>
+	<prepareDuration>50</prepareDuration>
+	<prepareDurationDelta>30</prepareDurationDelta>
 	<contextActions>
 		<Item href="/Mechanics/Spells/Mounts/BattlemountApril/Jump/Spell01.xdb#xpointer(/gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf)" />
 		<Item href="/Mechanics/Spells/Mounts/BattlemountApril/RocketSquall/Spell01.xdb#xpointer(/gameMechanics.constructor.schemes.spell.area.SpellArea)" />

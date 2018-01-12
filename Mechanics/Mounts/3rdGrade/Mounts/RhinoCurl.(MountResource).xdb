@@ -4,13 +4,13 @@
 		<resourceId>286101506</resourceId>
 	</Header>
 	<Name href="RhinoCurl.(MountResource).Name.txt" />
-	<grade>3</grade>
-	<speed>0.6</speed>
+	<grade>5</grade>
+	<speed>8.05</speed>
 	<speedDelta>0.01</speedDelta>
-	<health>0.225</health>
-	<healthDelta>0.005</healthDelta>
+	<health>2.5</health>
+	<healthDelta>0.03</healthDelta>
 	<regen>0.2</regen>
-	<prepareDuration>2400</prepareDuration>
+	<prepareDuration>50</prepareDuration>
 	<prepareDurationDelta>30</prepareDurationDelta>
 	<contextActions>
 		<Item href="/Mechanics/Spells/Mounts/Rhino/Charge/Spell01.xdb#xpointer(/gameMechanics.constructor.schemes.spell.singleTarget.SpellSingleTarget)" />
