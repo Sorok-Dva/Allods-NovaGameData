@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gameMechanics.constructor.schemes.item.ItemResource>
+	<Header>
+		<resourceId>20174204</resourceId>
+	</Header>
+	<name href="LevelUp56.Name.txt" />
+	<description href="LevelUp56.Description.txt" />
+	<image href="/Interface/Icons/Mounts/SpellsMounts/AccumulationPowerSparks.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+	<source>Vendor</source>
+	<budgetUsage>0</budgetUsage>
+	<budget>0</budget>
+	<itemClass href="/Mechanics/ItemClasses/Other.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemClass)" />
+	<spell href="/Mechanics/Spells/LevelUp/LevelUp56.xdb#xpointer(/gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf)" />
+	<quality href="/Mechanics/ItemQualities/Legendary.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemQuality)" />
+	<binding>BindOnPickup</binding>
+</gameMechanics.constructor.schemes.item.ItemResource>

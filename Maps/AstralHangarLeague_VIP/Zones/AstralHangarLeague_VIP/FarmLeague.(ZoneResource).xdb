@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gameMechanics.map.zone.ZoneResource>
+	<Header>
+		<resourceId>20174207</resourceId>
+	</Header>
+	<internalName />
+	<name>Farm</name>
+	<color>0xffa00000</color>
+	<zoneLights href="/Maps/AstralHangarLeague_VIP/ZoneLights/League_Astral.(ZoneLights).xdb#xpointer(/ZoneLights)" />
+	<sanctuaries>
+		<places>
+			<Item>
+				<coord x="12607" y="12885.3" z="3.9" />
+				<yaw>4.80216</yaw>
+				<faction href="/World/Factions/League.xdb#xpointer(/gameMechanics.world.creature.Faction)" />
+			</Item>
+		</places>
+	</sanctuaries>
+	<graveyards>
+		<places>
+			<Item>
+				<coord x="12607" y="12885.3" z="3.9" />
+				<yaw>4.80216</yaw>
+				<faction href="/World/Factions/League.xdb#xpointer(/gameMechanics.world.creature.Faction)" />
+			</Item>
+			<Item>
+				<coord x="12879.1" y="13609.2" z="7.7" />
+				<yaw>5.28745</yaw>
+				<faction href="/World/Factions/League.xdb#xpointer(/gameMechanics.world.creature.Faction)" />
+				<conditions>
+					<Item type="gameMechanics.elements.predicates.PredicateInZone">
+						<zone href="ZL1_Arena.(ZoneResource).xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+					</Item>
+				</conditions>
+			</Item>
+		</places>
+	</graveyards>
+	<parentZone href="AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+	<pvpType href="/Mechanics/ZonePvpTypes/HomelandLeague.xdb#xpointer(/gameMechanics.map.zone.Homeland)" />
+</gameMechanics.map.zone.ZoneResource>a

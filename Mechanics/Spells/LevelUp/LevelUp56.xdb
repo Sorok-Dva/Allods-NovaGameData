@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf>
+	<Header>
+		<resourceId>20174201</resourceId>
+	</Header>
+	<Name href="" />
+	<Description href="" />
+	<nameTemplate href="" />
+	<descTemplate href="" />
+	<prepareDuration>15000</prepareDuration>
+	<targetType>STTSelf</targetType>
+	<mechanics type="gameMechanics.constructor.schemes.spell.SpellMechanics">
+		<casterConditions>
+			<Item type="gameMechanics.constructor.basicElements.PredicateNot">
+				<predicate type="gameMechanics.elements.predicates.PredicateCreatureLevel">
+					<minLevel type="gameMechanics.formulas.IntConstantValue">
+						<value>4</value>
+					</minLevel>
+				</predicate>
+			</Item>
+		</casterConditions>
+		<casterResources>
+			<Item type="gameMechanics.elements.resources.ResourceActiveItem" />
+		</casterResources>
+		<casterImpacts>
+			<Item type="gameMechanics.elements.impacts.ImpactAddExperience">
+				<calcer type="gameMechanics.elements.calcers.CalcerRemainingExpirience">
+					<level>56</level>
+				</calcer>
+			</Item>
+		</casterImpacts>
+	</mechanics>
+</gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf>
