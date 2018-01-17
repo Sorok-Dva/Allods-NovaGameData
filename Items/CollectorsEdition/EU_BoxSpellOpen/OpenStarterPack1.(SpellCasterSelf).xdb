@@ -11,7 +11,7 @@
 			<Item type="gameMechanics.elements.resources.ResourceActiveItem" />
 		</casterResources>
 		<casterImpacts>
-			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
+			<!--<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
 				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
 					<item href="/ItemMall/Rares/Mounts/IMMount.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 				</item>
@@ -19,6 +19,42 @@
 			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
 				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
 					<item href="/ItemMall/Scrolls/RatesNew/IMXPRate_new.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+				</item>
+			</Item>-->
+			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
+				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
+					<item href="/Items/EventItems/LoreEvents/2011_March/Necromancer/TransformPet_05.(ItemResource).xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+				</item>
+			</Item>
+			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
+				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
+					<item href="/Mechanics/Mounts/3rdGrade/Items/BlackGryphonMountItem.(ItemResource).xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+				</item>
+			</Item>
+			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
+				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
+					<item href="/ItemMall/Rares/Chests/StrongBox/KeyBoxes/25KeysBundle.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+				</item>
+			</Item>
+			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
+				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
+					<item href="/ItemMall/Rares/Chests/StrongBox/StrongBox_12_2012/Box.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+				</item>
+				<count>5</count>
+			</Item>
+			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
+				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
+					<item href="/Items/CollectorsEdition/CollectorsSet.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+				</item>
+			</Item>
+			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
+				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
+					<item href="/ItemMall/Services/Training/TalentsRerollTicket.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+				</item>
+			</Item>
+			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
+				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
+					<item href="/ItemMall/Services/Training/StatsRerollTicket.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 				</item>
 			</Item>
 		</casterImpacts>

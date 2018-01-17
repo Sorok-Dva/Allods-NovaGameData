@@ -40,6 +40,22 @@
 			<Item type="gameMechanics.elements.resources.ResourceActiveItem" />
 		</casterResources>
 		<casterImpacts>
+			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
+				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
+					<item href="/Items/Mechanics/RareBoxLoot/OwnRune06.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+				</item>
+				<count>6</count>
+			</Item>
+			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
+				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
+					<item href="/ItemMall/Services/Bags/25LvlBagUpgrade.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+				</item>
+			</Item>
+			<Item type="gameMechanics.elements.impacts.ImpactGiveItem">
+				<item type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
+					<item href="/Mechanics/Mounts/1stGrade/Items/HeadHunterWolf.(ItemResource).xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+				</item>
+			</Item>
 			<Item type="gameMechanics.elements.impacts.ImpactIfCaster">
 				<predicates>
 					<Item type="gameMechanics.elements.predicates.PredicateCharacterClass">

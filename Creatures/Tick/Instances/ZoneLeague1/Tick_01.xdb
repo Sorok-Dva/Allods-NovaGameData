@@ -7,9 +7,15 @@
 	<corpulence>0.5</corpulence>
 	<visMob href="/Creatures/Tick/Tick.(VisualMob).xdb#xpointer(/VisualMob)" />
 	<kind href="/Mechanics/Creatures/Tick/TickKind.(MobKind).xdb#xpointer(/gameMechanics.world.mob.MobKind)" />
-	<walkSpeed>1.6</walkSpeed>
+	<walkSpeed>1.9</walkSpeed>
 	<faction href="/World/Factions/Neutral.xdb#xpointer(/gameMechanics.world.creature.Faction)" />
 	<usesWeapon>false</usesWeapon>
 	<lootTable href="" />
-	<quality href="/Mechanics/MobQualities/Common.xdb#xpointer(/gameMechanics.world.mob.MobQuality)" />
-<levelMin type="gameMechanics.formulas.IntConstantValue"><value>6</value></levelMin><levelMax type="gameMechanics.formulas.IntConstantValue"><value>7</value></levelMax></gameMechanics.world.mob.MobWorld>
+	<quality href="/Mechanics/MobQualities/Elite.xdb#xpointer(/gameMechanics.world.mob.MobQuality)" />
+	<levelMax type="gameMechanics.formulas.IntConstantValue">
+		<value>6</value>
+	</levelMax>
+	<levelMin type="gameMechanics.formulas.IntConstantValue">
+		<value>7</value>
+	</levelMin>
+</gameMechanics.world.mob.MobWorld>

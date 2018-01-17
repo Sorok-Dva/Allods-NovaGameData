@@ -53,6 +53,17 @@
 					<durationMod>0.10</durationMod>
 					<immunityTime>40000</immunityTime>
 				</Item>
+				<Item>
+					<fairyRank>7</fairyRank>
+					<durationMod>0.05</durationMod>
+					<immunityTime>45000</immunityTime>
+				</Item>
+				<Item>
+					<fairyRank>8</fairyRank>
+					<durationMod>0.025</durationMod>
+					<immunityTime>47500</immunityTime>
+				</Item>
+			
 			</entries>
 		</Item>
 	</drGroups>
