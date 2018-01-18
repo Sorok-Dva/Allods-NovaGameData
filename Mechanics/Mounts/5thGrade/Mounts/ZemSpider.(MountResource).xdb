@@ -5,7 +5,7 @@
 	</Header>
 	<Name href="ZemSpider.txt" />
 	<grade>5</grade>
-	<speed>9.05</speed>
+	<speed>7.05</speed>
 	<speedDelta>0.01</speedDelta>
 	<health>2.5</health>
 	<healthDelta>0.03</healthDelta>
@@ -50,7 +50,7 @@
 	<basicSkin href="/Mechanics/Mounts/Skins/BattleMounts/BattleMountZemSpider.(MountSkin).xdb#xpointer(/gameMechanics.constructor.schemes.mount.MountSkin)" />
 	<alternativeSkins />
 	<penaltyCalcer type="gameMechanics.elements.calcers.OverLevelPenaltyCalcer">
-		<level>10</level>
+		<level>4</level>
 		<exponent>0.917</exponent>
 	</penaltyCalcer>
 	<ignoreWater>false</ignoreWater>
