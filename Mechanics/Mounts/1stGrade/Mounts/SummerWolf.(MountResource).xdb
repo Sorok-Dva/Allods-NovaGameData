@@ -5,7 +5,7 @@
 	</Header>
 	<Name href="SummerWolf.(MountResource).Name.txt" />
 	<grade>1</grade>
-	<speed>6.05</speed>
+	<speed>4.05</speed>
 	<speedDelta>0.0</speedDelta>
 	<health>0.1</health>
 	<healthDelta>0.0</healthDelta>
