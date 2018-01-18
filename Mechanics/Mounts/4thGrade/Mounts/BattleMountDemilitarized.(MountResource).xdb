@@ -44,7 +44,7 @@
 		<Item href="/Mechanics/Mounts/Skins/AstralTreasureHunting/GolemAstral.(MountSkin).xdb#xpointer(/gameMechanics.constructor.schemes.mount.MountSkin)" />
 	</alternativeSkins>
 	<penaltyCalcer type="gameMechanics.elements.calcers.OverLevelPenaltyCalcer">
-		<level>51</level>
+		<level>4</level>
 		<exponent>0.917</exponent>
 	</penaltyCalcer>
 	<corpulence>2</corpulence>
