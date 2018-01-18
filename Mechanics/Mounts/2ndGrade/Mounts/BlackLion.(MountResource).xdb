@@ -4,14 +4,14 @@
 		<resourceId>177284105</resourceId>
 	</Header>
 	<Name href="BlackLionMount.txt" />
-	<grade>5</grade>
-	<speed>8.05</speed>
-	<speedDelta>0.01</speedDelta>
-	<health>2.5</health>
-	<healthDelta>0.03</healthDelta>
-	<regen>0.2</regen>
-	<prepareDuration>50</prepareDuration>
-	<prepareDurationDelta>30</prepareDurationDelta>
+	<grade>2</grade>
+	<speed>4.05</speed>
+	<speedDelta>0.0</speedDelta>
+	<health>0.1</health>
+	<healthDelta>0.0</healthDelta>
+	<regen>0.1</regen>
+	<prepareDuration>100</prepareDuration>
+	<prepareDurationDelta>50</prepareDurationDelta>
 	<abilities />
 	<basicSkin href="/Mechanics/Mounts/Skins/Lions/BlackLion.(MountSkin).xdb#xpointer(/gameMechanics.constructor.schemes.mount.MountSkin)" />
 	<alternativeSkins>
@@ -25,7 +25,7 @@
 		<Item href="/Mechanics/Mounts/Skins/Golden/GoldenLion.(MountSkin).xdb#xpointer(/gameMechanics.constructor.schemes.mount.MountSkin)" />
 	</alternativeSkins>
 	<penaltyCalcer type="gameMechanics.elements.calcers.OverLevelPenaltyCalcer">
-		<level>42</level>
+		<level>4</level>
 		<exponent>0.917</exponent>
 	</penaltyCalcer>
 </gameMechanics.constructor.schemes.mount.MountResource>
