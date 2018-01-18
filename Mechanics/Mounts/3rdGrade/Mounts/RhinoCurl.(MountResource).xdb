@@ -4,14 +4,14 @@
 		<resourceId>286101506</resourceId>
 	</Header>
 	<Name href="RhinoCurl.(MountResource).Name.txt" />
-	<grade>5</grade>
-	<speed>8.05</speed>
-	<speedDelta>0.01</speedDelta>
-	<health>2.5</health>
-	<healthDelta>0.03</healthDelta>
-	<regen>0.2</regen>
-	<prepareDuration>50</prepareDuration>
-	<prepareDurationDelta>30</prepareDurationDelta>
+	<grade>3</grade>
+	<speed>4.05</speed>
+	<speedDelta>0.0</speedDelta>
+	<health>0.1</health>
+	<healthDelta>0.0</healthDelta>
+	<regen>0.1</regen>
+	<prepareDuration>100</prepareDuration>
+	<prepareDurationDelta>50</prepareDurationDelta>
 	<contextActions>
 		<Item href="/Mechanics/Spells/Mounts/Rhino/Charge/Spell01.xdb#xpointer(/gameMechanics.constructor.schemes.spell.singleTarget.SpellSingleTarget)" />
 	</contextActions>
@@ -43,7 +43,7 @@
 		<Item href="/Mechanics/Mounts/Skins/Rhinos/RhinoTepPyramid.(MountSkin).xdb#xpointer(/gameMechanics.constructor.schemes.mount.MountSkin)" />
 	</alternativeSkins>
 	<penaltyCalcer type="gameMechanics.elements.calcers.OverLevelPenaltyCalcer">
-		<level>50</level>
+		<level>4</level>
 		<exponent>0.917</exponent>
 	</penaltyCalcer>
 </gameMechanics.constructor.schemes.mount.MountResource>
