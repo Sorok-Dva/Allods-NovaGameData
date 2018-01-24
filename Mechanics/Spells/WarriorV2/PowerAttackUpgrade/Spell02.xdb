@@ -7,10 +7,10 @@
 			<value>4.5</value>
 			<buff>/Mechanics/Spells/WarriorV2/PowerAttack/Buff02.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)</buff>
 			<bu_1>/Mechanics/Spells/WarriorV2/PowerAttack/Buff02.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)</bu_1>
-			<avgDama_1>18.15</avgDama_1>
+			<avgDama_1>15.4275</avgDama_1>
 			<p_1>7.2</p_1>
 			<val_1>30</val_1>
-			<avgDamage>27.23</avgDamage>
+			<avgDamage>23.1455</avgDamage>
 			<ppm>14.4</ppm>
 			<mul>0.111</mul>
 			<m_1>0.111</m_1>
@@ -26,12 +26,12 @@
 		</Item>
 		<Item>
 			<name>var1</name>
-			<value>18.15</value>
+			<value>15.4275</value>
 			<scaler>StrMeleeSpeedMin</scaler>
 		</Item>
 		<Item>
 			<name>var2</name>
-			<value>18.15</value>
+			<value>15.4275</value>
 			<scaler>StrMeleeSpeedMax</scaler>
 		</Item>
 		<Item>
