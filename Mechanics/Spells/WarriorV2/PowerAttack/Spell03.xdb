@@ -7,8 +7,8 @@
 			<buff>Buff03.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)</buff>
 			<bu_1>Buff03.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)</bu_1>
 			<p_1>7.2</p_1>
-			<avgDama_1>20.81</avgDama_1>
-			<avgDamage>31.22</avgDamage>
+			<avgDama_1>17.6885</avgDama_1>
+			<avgDamage>26.537</avgDamage>
 			<ppm>14.4</ppm>
 			<m_1>0.111</m_1>
 			<mul>0.111</mul>
@@ -24,12 +24,12 @@
 		</Item>
 		<Item>
 			<name>var1</name>
-			<value>20.81</value>
+			<value>17.6885</value>
 			<scaler>StrMeleeSpeedMin</scaler>
 		</Item>
 		<Item>
 			<name>var2</name>
-			<value>20.81</value>
+			<value>17.6885</value>
 			<scaler>StrMeleeSpeedMax</scaler>
 		</Item>
 	</descVars>
