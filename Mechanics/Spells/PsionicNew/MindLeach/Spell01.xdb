@@ -4,8 +4,8 @@
 		<resourceId>296601607</resourceId>
 		<Prototype href="Spell.xdb#xpointer(/gameMechanics.constructor.schemes.spell.singleTarget.SpellSingleTarget)" />
 		<Variables>
-			<minDamage>31.3122</minDamage>
-			<maxDamage>31.3122</maxDamage>
+			<minDamage>34.44342</minDamage>
+			<maxDamage>34.44342</maxDamage>
 		</Variables>
 	</Header>
 	<Name href="Spell01_Name.txt" />
@@ -13,7 +13,7 @@
 	<descVars>
 		<Item>
 			<name>var0</name>
-			<value>31.3122</value>
+			<value>34.44342</value>
 			<scaler>IntSpell</scaler>
 		</Item>
 	</descVars>
