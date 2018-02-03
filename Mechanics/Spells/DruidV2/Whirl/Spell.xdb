@@ -22,7 +22,7 @@
 	</range>
 	<level>1</level>
 	<prepareDuration>0</prepareDuration>
-	<immutablePrepareDuration>2000</immutablePrepareDuration>
+	<immutablePrepareDuration>false</immutablePrepareDuration>
 	<needLos>true</needLos>
 	<element>LIGHTNING</element>
 	<targetType>STTCurrentTargetNotSelf</targetType>
