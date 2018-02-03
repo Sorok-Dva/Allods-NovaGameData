@@ -21,8 +21,8 @@
 		<value>40</value>
 	</range>
 	<level>1</level>
-	<prepareDuration>2000</prepareDuration>
-	<immutablePrepareDuration>false</immutablePrepareDuration>
+	<prepareDuration>0</prepareDuration>
+	<immutablePrepareDuration>2000</immutablePrepareDuration>
 	<needLos>true</needLos>
 	<element>LIGHTNING</element>
 	<targetType>STTCurrentTargetNotSelf</targetType>

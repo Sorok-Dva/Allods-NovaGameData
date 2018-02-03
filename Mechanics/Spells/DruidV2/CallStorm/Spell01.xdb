@@ -8,7 +8,7 @@
 			<duration>60000</duration>
 			<mana>105.41</mana>
 			<prepareDuration>4000</prepareDuration>
-			<value>9.58</value>
+			<value>12.454</value>
 			<val_1>5</val_1>
 		</Variables>
 	</Header>
@@ -17,7 +17,7 @@
 	<descVars>
 		<Item>
 			<name>var0</name>
-			<value>9.58</value>
+			<value>12.454</value>
 			<scaler>IntSpell</scaler>
 		</Item>
 	</descVars>
