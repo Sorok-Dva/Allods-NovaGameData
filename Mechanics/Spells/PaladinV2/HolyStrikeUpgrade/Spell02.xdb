@@ -4,7 +4,7 @@
 		<resourceId>238317619</resourceId>
 		<Prototype href="Spell.xdb#xpointer(/gameMechanics.constructor.schemes.spell.singleTarget.SpellSingleTarget)" />
 		<Variables>
-			<avgDamage>29.44</avgDamage>
+			<avgDamage>26.496</avgDamage>
 			<mul>0.11888</mul>
 		</Variables>
 	</Header>
@@ -18,12 +18,12 @@
 		</Item>
 		<Item>
 			<name>var1</name>
-			<value>29.44</value>
+			<value>26.496</value>
 			<scaler>StrMeleeSpeedMin</scaler>
 		</Item>
 		<Item>
 			<name>var2</name>
-			<value>29.44</value>
+			<value>26.496</value>
 			<scaler>StrMeleeSpeedMax</scaler>
 		</Item>
 	</descVars>

@@ -6,7 +6,7 @@
 		<Variables>
 			<duration>10000</duration>
 			<buff>Buff02.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)</buff>
-			<absorb>209.77</absorb>
+			<absorb>230.747</absorb>
 		</Variables>
 	</Header>
 	<Name href="Buff01_Name.txt" />
