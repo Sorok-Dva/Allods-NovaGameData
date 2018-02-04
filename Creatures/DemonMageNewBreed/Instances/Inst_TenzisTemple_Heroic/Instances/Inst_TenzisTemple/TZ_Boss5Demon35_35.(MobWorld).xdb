@@ -20,13 +20,6 @@
 				<max>1</max>
 			</number>
 		</Item>
-		<Item>
-            <item href="/Mechanics/Runes/CrystalCrumb.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
-                <number>
-                    <min>250</min>
-                    <max>1000</max>
-                </number>
-        </Item>
 	</personalLootTable>
 	<quality href="/Mechanics/MobQualities/FinalBoss.xdb#xpointer(/gameMechanics.world.mob.MobQuality)" />
 	<leashData>
@@ -41,9 +34,9 @@
 		<Item href="/Mechanics/Abilities/TenzisTemple/TZ_Boss5DeathTrigger_heroic.(AbilityResource).xdb#xpointer(/gameMechanics.constructor.schemes.ability.AbilityResource)" />
 	</personalAbilities>
 	<levelMax type="gameMechanics.formulas.IntConstantValue">
-		<value>56</value>
+		<value>40</value>
 	</levelMax>
 	<levelMin type="gameMechanics.formulas.IntConstantValue">
-		<value>56</value>
+		<value>40</value>
 	</levelMin>
 </gameMechanics.world.mob.MobWorld>

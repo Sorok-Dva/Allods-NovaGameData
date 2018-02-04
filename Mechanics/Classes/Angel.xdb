@@ -8,7 +8,7 @@
 	<hitDice>40</hitDice>
 	<manaDice>40</manaDice>
 	<manaType>Mana</manaType>
-	<talentsTable href="/Mechanics/Talents/WarriorV3/Moderator.xdb#xpointer(/gameMechanics.constructor.schemes.talent.BaseTalentsTable)" />
+	<talentsTable href="/Mechanics/Talents/MageV2/MageTalentsTable.xdb#xpointer(/gameMechanics.constructor.schemes.talent.BaseTalentsTable)" />
 	<availableSpells>
 		<Item href="/Mechanics/Spells/Angel/AngelWings/Spell.xdb#xpointer(/gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf)" />
 		<Item href="/Mechanics/Spells/Angel/Kill/Spell.xdb#xpointer(/gameMechanics.constructor.schemes.spell.singleTarget.SpellSingleTarget)" />

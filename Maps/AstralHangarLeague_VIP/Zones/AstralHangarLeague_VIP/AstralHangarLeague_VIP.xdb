@@ -17,27 +17,12 @@
 				<yaw>4.83093</yaw>
 				<faction href="/World/Factions/League.xdb#xpointer(/gameMechanics.world.creature.Faction)" />
 			</Item>
-			<Item>
-				<coord x="12607" y="12885.3" z="3.9" />
-				<yaw>4.80216</yaw>
-				<faction href="/World/Factions/League.xdb#xpointer(/gameMechanics.world.creature.Faction)" />
-			</Item>
 		</places>
 	</sanctuaries>
 	<graveyards>
 		<places>
 			<Item>
 				<coord x="13081.6" y="13177.8" z="65.7543" />
-				<yaw>4.80216</yaw>
-				<faction href="/World/Factions/League.xdb#xpointer(/gameMechanics.world.creature.Faction)" />
-			</Item>
-			<Item>
-				<coord x="13081.6" y="13177.8" z="65.7543" />
-				<yaw>4.80216</yaw>
-				<faction href="/World/Factions/League.xdb#xpointer(/gameMechanics.world.creature.Faction)" />
-			</Item>
-			<Item>
-				<coord x="12607" y="12885.3" z="3.9" />
 				<yaw>4.80216</yaw>
 				<faction href="/World/Factions/League.xdb#xpointer(/gameMechanics.world.creature.Faction)" />
 			</Item>

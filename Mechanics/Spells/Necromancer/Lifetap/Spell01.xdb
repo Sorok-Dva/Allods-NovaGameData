@@ -6,7 +6,7 @@
 		<Variables>
 			<summand>1</summand>
 			<minDamage>9.84</minDamage>
-			<mana>43</mana>
+			<mana>32.25</mana>
 			<maxDamage>9.84</maxDamage>
 			<prepareDuration>2500</prepareDuration>
 			<mul>0.167</mul>

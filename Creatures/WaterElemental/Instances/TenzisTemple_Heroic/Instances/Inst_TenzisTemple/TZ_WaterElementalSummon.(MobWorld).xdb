@@ -27,6 +27,6 @@
 		<value>60</value>
 	</levelMax>
 	<levelMin type="gameMechanics.formulas.IntConstantValue">
-		<value>56</value>
+		<value>40</value>
 	</levelMin>
 </gameMechanics.world.mob.MobWorld>

@@ -41,7 +41,7 @@
 	<mechanics type="gameMechanics.constructor.schemes.spell.SpellMechanics">
 		<casterResources>
 			<Item type="gameMechanics.elements.resources.ResourceMana">
-				<mana>105.4</mana>
+				<mana>79.05</mana>
 				<scaleByWeaponSpeed>false</scaleByWeaponSpeed>
 				<source>Mainhand</source>
 			</Item>

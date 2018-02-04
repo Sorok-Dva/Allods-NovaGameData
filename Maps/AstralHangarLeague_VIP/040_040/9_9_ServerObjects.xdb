@@ -1,19 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<gameMechanics.map.PatchObjects>
-	<objects>
-		<Item type="gameMechanics.map.spawn.MobSingleSpawn">
-			<scanRadius>0</scanRadius>
-			<place type="gameMechanics.map.spawn.SpawnPlacePoint">
-				<tuner href="" />
-				<center x="12620.1" y="12892.9" z="3.9" />
-				<yaw>6.25678</yaw>
-				<pitch>0.00462957</pitch>
-				<roll>0.000329653</roll>
-			</place>
-			<spawnTime type="gameMechanics.elements.spawn.TimeCommon">
-				<factor>1</factor>
-			</spawnTime>
-			<object href="/Characters/Kania_male/Instances/ZoneLeague1/ZL1_Guard_Town.(MobWorld).xdb#xpointer(/gameMechanics.world.mob.MobWorld)" />
-		</Item>
-	</objects>
-</gameMechanics.map.PatchObjects>
+<gameMechanics.map.PatchObjects />
