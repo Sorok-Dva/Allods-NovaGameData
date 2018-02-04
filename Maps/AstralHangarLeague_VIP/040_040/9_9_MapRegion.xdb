@@ -1139,53 +1139,17 @@
 	</zones>
 	<tiles>
 		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
-			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
-			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
-		</Item>
-		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
-		</Item>
-		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
@@ -1193,35 +1157,17 @@
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 		</Item>
 		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
-		</Item>
-		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
@@ -1229,35 +1175,17 @@
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 		</Item>
 		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
-		</Item>
-		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
@@ -1265,35 +1193,17 @@
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 		</Item>
 		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
-		</Item>
-		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
@@ -1301,35 +1211,17 @@
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 		</Item>
 		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
-		</Item>
-		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
@@ -1337,35 +1229,17 @@
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 		</Item>
 		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
-		</Item>
-		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
@@ -1373,35 +1247,17 @@
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 		</Item>
 		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
-		</Item>
-		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
@@ -1409,17 +1265,161 @@
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 		</Item>
 		<Item>
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
-			<Item href="" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+		</Item>
+		<Item>
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+		</Item>
+		<Item>
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+		</Item>
+		<Item>
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+		</Item>
+		<Item>
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+		</Item>
+		<Item>
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+		</Item>
+		<Item>
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+		</Item>
+		<Item>
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+		</Item>
+		<Item>
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
+			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />
 			<Item href="/Maps/AstralHangarLeague_VIP/Zones/AstralHangarLeague_VIP/AstralHangarLeague_VIP.xdb#xpointer(/gameMechanics.map.zone.ZoneResource)" />

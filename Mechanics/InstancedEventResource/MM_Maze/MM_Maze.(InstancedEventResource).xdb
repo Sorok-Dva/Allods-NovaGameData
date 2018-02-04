@@ -560,10 +560,10 @@
 		</Item>
 	</achievements>
 	<eventType type="avatarPopulation.service.impl.matchMakingImpl.eventType.solo.SoloInstancedEvent">
-		<minAvatarLevel>55</minAvatarLevel>
+		<minAvatarLevel>56</minAvatarLevel>
 		<minAvatarsCount>1</minAvatarsCount>
 		<capacity>12</capacity>
-		<immediatelyStartFactor>2</immediatelyStartFactor>
+		<immediatelyStartFactor>0.1</immediatelyStartFactor>
 		<entrances>
 			<Item type="mapLoader.pointer.MapPointerPos">
 				<pointer>

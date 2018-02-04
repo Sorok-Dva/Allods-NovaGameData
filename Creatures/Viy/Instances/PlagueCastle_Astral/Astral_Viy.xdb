@@ -18,7 +18,15 @@
 	<usesWeapon>false</usesWeapon>
 	<aggroRadius>40</aggroRadius>
 	<lootTable href="/World/LootTables/HeroicMountSkinsTable/HeroicMountSkinsTable.(LootTableResource).xdb#xpointer(/gameMechanics.constructor.schemes.item.LootTableResource)" />
-	<personalLootTable />
+    <personalLootTable>
+    	<Item>
+            <item href="/Mechanics/Runes/CrystalCrumb.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+            <number>
+                <min>250</min>
+                <max>1000</max>
+            </number>
+        </Item>
+    </personalLootTable>
 	<quality href="/Mechanics/MobQualities/FinalBoss.xdb#xpointer(/gameMechanics.world.mob.MobQuality)" />
 	<leashData>
 		<leashRange>80</leashRange>
@@ -143,9 +151,9 @@
 		</extraLootProviders>
 	</lootDropModifier>
 	<levelMax type="gameMechanics.formulas.IntConstantValue">
-		<value>46</value>
+		<value>56</value>
 	</levelMax>
 	<levelMin type="gameMechanics.formulas.IntConstantValue">
-		<value>46</value>
+		<value>56</value>
 	</levelMin>
 </gameMechanics.world.mob.MobWorld>

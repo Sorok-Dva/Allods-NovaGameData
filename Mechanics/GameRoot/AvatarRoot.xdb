@@ -869,7 +869,7 @@
 		<Item>
 			<currency href="/Mechanics/AlternativeCurrencies/Myrrh.xdb#xpointer(/gameMechanics.constructor.schemes.item.AlternativeCurrency)" />
 			<count type="gameMechanics.elements.calcers.FloatData">
-				<value>5000</value>
+				<value>15000</value>
 			</count>
 		</Item>
 		<Item>
@@ -887,14 +887,21 @@
 		<Item>
 			<currency href="/Mechanics/AlternativeCurrencies/MountFood.xdb#xpointer(/gameMechanics.constructor.schemes.item.AlternativeCurrency)" />
 			<count type="gameMechanics.elements.calcers.FloatData">
-				<value>10</value>
+				<value>100</value>
 			</count>
 		</Item>
 		<Item>
 			<currency href="/Mechanics/AlternativeCurrencies/WorldChat.xdb#xpointer(/gameMechanics.constructor.schemes.item.AlternativeCurrency)" />
 			<count type="gameMechanics.elements.calcers.FloatData">
+				<value>50</value>
+			</count>
+		</Item>
+		<Item>
+			<currency href="/Mechanics/AlternativeCurrencies/ChangeRoomTicket.xdb#xpointer(/gameMechanics.constructor.schemes.item.AlternativeCurrency)" />
+			<count type="gameMechanics.elements.calcers.FloatData">
 				<value>20</value>
 			</count>
 		</Item>
+		
 	</startingCurrencies>
 </gameMechanics.world.gameRoot.AvatarRoot>
