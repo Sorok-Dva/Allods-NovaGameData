@@ -4,7 +4,7 @@
 		<resourceId>44291</resourceId>
 	</Header>
 	<name href="Empire1_Yasker_Name.txt" />
-	<corpulence>5.5</corpulence>
+	<corpulence>15.5</corpulence>
 	<aggroRadius>15</aggroRadius>
 	<spawnLocation>
 		<position x="11569.576172" y="12858.213867" z="-19.547501" />
@@ -60,9 +60,9 @@
 	<!-- <lootDropModifier type="gameMechanics.world.mob.NoLoot" /> -->
 	<interestingCorpse>false</interestingCorpse>
 	<levelMax type="gameMechanics.formulas.IntConstantValue">
-		<value>80</value>
+		<value>65</value>
 	</levelMax>
 	<levelMin type="gameMechanics.formulas.IntConstantValue">
-		<value>80</value>
+		<value>65</value>
 	</levelMin>
 </gameMechanics.world.mob.MobWorld>
