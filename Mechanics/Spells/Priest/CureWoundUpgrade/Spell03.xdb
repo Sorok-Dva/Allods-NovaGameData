@@ -4,7 +4,7 @@
 		<resourceId>194807813</resourceId>
 		<Prototype href="Spell.xdb#xpointer(/gameMechanics.constructor.schemes.spell.singleTarget.SpellSingleTarget)" />
 		<Variables>
-			<heal>54.4</heal>
+			<heal>59.84</heal>
 		</Variables>
 	</Header>
 	<Name href="Spell01_Name.txt" />
@@ -12,7 +12,7 @@
 	<descVars>
 		<Item>
 			<name>var0</name>
-			<value>54.4</value>
+			<value>59.84</value>
 			<scaler>IntSpell</scaler>
 		</Item>
 	</descVars>

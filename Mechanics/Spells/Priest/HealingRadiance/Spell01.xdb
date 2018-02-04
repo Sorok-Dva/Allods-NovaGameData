@@ -47,7 +47,7 @@
 		</cooldown>
 		<casterResources>
 			<Item type="gameMechanics.elements.resources.ResourceMana">
-				<mana>202.8</mana>
+				<mana>172.38</mana>
 				<scaleByWeaponSpeed>false</scaleByWeaponSpeed>
 				<source>Mainhand</source>
 			</Item>

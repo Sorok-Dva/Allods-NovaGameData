@@ -4,7 +4,7 @@
 		<resourceId>60033</resourceId>
 		<Prototype href="Buff.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)" />
 		<Variables>
-			<value>14.4</value>
+			<value>15.84</value>
 		</Variables>
 	</Header>
 	<Name href="Buff01_Name.txt" />
