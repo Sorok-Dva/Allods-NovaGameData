@@ -5,7 +5,7 @@
 		<Prototype href="Spell.xdb#xpointer(/gameMechanics.constructor.schemes.spell.singleTarget.SpellSingleTarget)" />
 		<Variables>
 			<buff>Buff02.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)</buff>
-			<avgDamage>23.5656</avgDamage>
+			<avgDamage>25.92216</avgDamage>
 		</Variables>
 	</Header>
 	<Name href="Spell01_Name.txt" />
@@ -13,17 +13,17 @@
 	<descVars>
 		<Item>
 			<name>var0</name>
-			<value>7.07</value>
+			<value>7.777</value>
 			<scaler>StrMelee</scaler>
 		</Item>
 		<Item>
 			<name>var1</name>
-			<value>23.5656</value>
+			<value>25.92216</value>
 			<scaler>StrMeleeMin</scaler>
 		</Item>
 		<Item>
 			<name>var2</name>
-			<value>23.5656</value>
+			<value>25.92216</value>
 			<scaler>StrMeleeMax</scaler>
 		</Item>
 	</descVars>
