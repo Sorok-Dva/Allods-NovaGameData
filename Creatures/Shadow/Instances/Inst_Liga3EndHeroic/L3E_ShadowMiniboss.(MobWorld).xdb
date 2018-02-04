@@ -15,15 +15,6 @@
 	<faction href="/World/Factions/Wild.xdb#xpointer(/gameMechanics.world.creature.Faction)" />
 	<aggroRadius>30</aggroRadius>
 	<lootTable href="/Characters/HumMobs/Instances/Inst_Liga3EndHeroic/L3E_Shadow_LootTable.(LootTableResource).xdb#xpointer(/gameMechanics.constructor.schemes.item.LootTableResource)" />
-    <personalLootTable>
-    	<Item>
-            <item href="/Mechanics/Runes/CrystalCrumb.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
-            <number>
-                <min>250</min>
-                <max>1000</max>
-            </number>
-        </Item>
-    </personalLootTable>
 	<quality href="/Mechanics/MobQualities/Boss.xdb#xpointer(/gameMechanics.world.mob.MobQuality)" />
 	<leashData>
 		<leashRange>80</leashRange>
@@ -37,9 +28,9 @@
 		<Item href="/Mechanics/Spells/QuestSpells/AL3_QuestSpells/ShadowDT.(AbilityResource).xdb#xpointer(/gameMechanics.constructor.schemes.ability.AbilityResource)" />
 	</personalAbilities>
 	<levelMax type="gameMechanics.formulas.IntConstantValue">
-		<value>56</value>
+		<value>40</value>
 	</levelMax>
 	<levelMin type="gameMechanics.formulas.IntConstantValue">
-		<value>56</value>
+		<value>40</value>
 	</levelMin>
 </gameMechanics.world.mob.MobWorld>

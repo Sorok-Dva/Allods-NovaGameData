@@ -78,7 +78,7 @@
 				<impactsOnLand>
 					<Item type="gameMechanics.constructor.schemes.buff.BuffAttacher">
 						<buff href="Buff01.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)" />
-						<allowOverrideCaster>true</allowOverrideCaster>
+						<allowOverrideCaster>false</allowOverrideCaster>
 						<durationScaler type="gameMechanics.elements.scalers.LinerMultiplierScaler">
 							<mul>0.1</mul>
 							<mulCalcer type="gameMechanics.elements.calcers.CalcerMountFromGroupMaxLevel">

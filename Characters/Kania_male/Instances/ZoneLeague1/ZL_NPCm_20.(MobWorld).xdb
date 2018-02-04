@@ -4,7 +4,7 @@
 		<resourceId>46328</resourceId>
 	</Header>
 	<name href="ZL_NPCm_20.txt" />
-	<corpulence>15.5</corpulence>
+	<corpulence>5.5</corpulence>
 	<aggroRadius>15</aggroRadius>
 	<spawnLocation>
 		<!-- <position x="13748.482422" y="6715.525879" z="36.862000" /> -->
@@ -59,9 +59,9 @@
 	</interactions>
 	<!-- <lootDropModifier type="gameMechanics.world.mob.NoLoot" /> -->
 	<levelMax type="gameMechanics.formulas.IntConstantValue">
-		<value>65</value>
+		<value>80</value>
 	</levelMax>
 	<levelMin type="gameMechanics.formulas.IntConstantValue">
-		<value>65</value>
+		<value>80</value>
 	</levelMin>
 </gameMechanics.world.mob.MobWorld>
