@@ -57,7 +57,7 @@
 		</targetConditions>
 		<casterResources>
 			<Item type="gameMechanics.elements.resources.ResourceMana">
-				<mana>50</mana>
+				<mana>37.5</mana>
 				<scaleByWeaponSpeed>false</scaleByWeaponSpeed>
 				<source>Mainhand</source>
 			</Item>

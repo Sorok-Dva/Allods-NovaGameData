@@ -24,7 +24,7 @@
 		<value>30</value>
 	</range>
 	<level>2</level>
-	<prepareDuration>10000</prepareDuration>
+	<prepareDuration>0</prepareDuration>
 	<immutablePrepareDuration>false</immutablePrepareDuration>
 	<needLos>false</needLos>
 	<element>SHADOW</element>
