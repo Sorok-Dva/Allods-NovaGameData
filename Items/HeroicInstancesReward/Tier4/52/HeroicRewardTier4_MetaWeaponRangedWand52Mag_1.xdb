@@ -38,7 +38,7 @@
 	<requiredLevel>51</requiredLevel>
 	<spell href="" />
 	<stackLimit>1</stackLimit>
-	<quality href="/Mechanics/ItemQualities/Uncommon.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemQuality)" />
+	<quality href="/Mechanics/ItemQualities/Epic.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemQuality)" />
 	<price type="gameMechanics.constructor.schemes.item.price.ItemPriceMoney">
 		<sellPrice>157817</sellPrice>
 		<buyPrice>315634</buyPrice>

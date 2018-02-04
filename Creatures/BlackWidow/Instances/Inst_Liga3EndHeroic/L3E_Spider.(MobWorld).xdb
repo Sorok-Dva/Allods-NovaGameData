@@ -16,9 +16,9 @@
 		<localLeash>false</localLeash>
 	</leashData>
 	<levelMax type="gameMechanics.formulas.IntConstantValue">
-		<value>40</value>
+		<value>54</value>
 	</levelMax>
 	<levelMin type="gameMechanics.formulas.IntConstantValue">
-		<value>40</value>
+		<value>54</value>
 	</levelMin>
 </gameMechanics.world.mob.MobWorld>

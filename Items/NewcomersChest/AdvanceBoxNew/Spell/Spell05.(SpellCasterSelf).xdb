@@ -56,6 +56,9 @@
 					<item href="/Mechanics/Mounts/1stGrade/Items/HeadHunterWolf.(ItemResource).xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 				</item>
 			</Item>
+			<Item type="gameMechanics.constructor.schemes.buff.BuffAttacher">
+				<buff href="/Mechanics/Looters/Magpie/TutorialMagpie/TutorPie.(BuffResource).xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)" />
+			</Item>
 			<Item type="gameMechanics.elements.impacts.ImpactIfCaster">
 				<predicates>
 					<Item type="gameMechanics.elements.predicates.PredicateCharacterClass">

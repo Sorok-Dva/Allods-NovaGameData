@@ -8,7 +8,7 @@
 			<Item>
 				<lootTable type="gameMechanics.constructor.schemes.item.LootTableSingleItem">
 					<itemProvider type="gameMechanics.constructor.schemes.item.SimpleItemProvider">
-						<item href="/Items/Mechanics/Trash/HeroicRewardTier4_JunkArmor52.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+						<item href="/Items/Mechanics/Trash/HeroicRewardTier4_JunkArmor51.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 					</itemProvider>
 					<isForAll>true</isForAll>
 				</lootTable>
@@ -19,7 +19,7 @@
 					<entries>
 						<Item>
 							<lootTable type="gameMechanics.constructor.schemes.item.LootTableMeta">
-								<item href="/Items/HeroicInstancesReward/Tier4/51/HeroicRewardTier4_MetaClothArmor51Mag_1.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+								<item href="/Items/HeroicInstancesReward/Tier4/52/HeroicRewardTier4_MetaClothArmor52Mag_1.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 								<upgraderChance>1</upgraderChance>
 								<stateChances>
 									<Item>0</Item>
@@ -34,7 +34,7 @@
 						</Item>
 						<Item>
 							<lootTable type="gameMechanics.constructor.schemes.item.LootTableMeta">
-								<item href="/Items/HeroicInstancesReward/Tier4/51/HeroicRewardTier4_MetaClothArmor51Mag_2.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+								<item href="/Items/HeroicInstancesReward/Tier4/52/HeroicRewardTier4_MetaClothArmor52Mag_2.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 								<upgraderChance>1</upgraderChance>
 								<stateChances>
 									<Item>0</Item>
@@ -49,7 +49,7 @@
 						</Item>
 						<Item>
 							<lootTable type="gameMechanics.constructor.schemes.item.LootTableMeta">
-								<item href="/Items/HeroicInstancesReward/Tier4/51/HeroicRewardTier4_MetaLeatherArmor51Mag_1.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+								<item href="/Items/HeroicInstancesReward/Tier4/52/HeroicRewardTier4_MetaLeatherArmor52Mag_1.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 								<upgraderChance>1</upgraderChance>
 								<stateChances>
 									<Item>0</Item>
@@ -64,7 +64,7 @@
 						</Item>
 						<Item>
 							<lootTable type="gameMechanics.constructor.schemes.item.LootTableMeta">
-								<item href="/Items/HeroicInstancesReward/Tier4/51/HeroicRewardTier4_MetaLeatherArmor51Mag_2.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+								<item href="/Items/HeroicInstancesReward/Tier4/52/HeroicRewardTier4_MetaLeatherArmor52Mag_2.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 								<upgraderChance>1</upgraderChance>
 								<stateChances>
 									<Item>0</Item>
@@ -79,7 +79,7 @@
 						</Item>
 						<Item>
 							<lootTable type="gameMechanics.constructor.schemes.item.LootTableMeta">
-								<item href="/Items/HeroicInstancesReward/Tier4/51/HeroicRewardTier4_MetaLeatherArmor51Phys_1.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+								<item href="/Items/HeroicInstancesReward/Tier4/52/HeroicRewardTier4_MetaLeatherArmor52Phys_1.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 								<upgraderChance>1</upgraderChance>
 								<stateChances>
 									<Item>0</Item>
@@ -94,7 +94,7 @@
 						</Item>
 						<Item>
 							<lootTable type="gameMechanics.constructor.schemes.item.LootTableMeta">
-								<item href="/Items/HeroicInstancesReward/Tier4/51/HeroicRewardTier4_MetaLeatherArmor51Phys_2.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+								<item href="/Items/HeroicInstancesReward/Tier4/52/HeroicRewardTier4_MetaLeatherArmor52Phys_2.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 								<upgraderChance>1</upgraderChance>
 								<stateChances>
 									<Item>0</Item>
@@ -109,7 +109,7 @@
 						</Item>
 						<Item>
 							<lootTable type="gameMechanics.constructor.schemes.item.LootTableMeta">
-								<item href="/Items/HeroicInstancesReward/Tier4/51/HeroicRewardTier4_MetaPlateArmor51Mag_1.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+								<item href="/Items/HeroicInstancesReward/Tier4/52/HeroicRewardTier4_MetaPlateArmor52Mag_1.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 								<upgraderChance>1</upgraderChance>
 								<stateChances>
 									<Item>0</Item>
@@ -124,7 +124,7 @@
 						</Item>
 						<Item>
 							<lootTable type="gameMechanics.constructor.schemes.item.LootTableMeta">
-								<item href="/Items/HeroicInstancesReward/Tier4/51/HeroicRewardTier4_MetaPlateArmor51Mag_2.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+								<item href="/Items/HeroicInstancesReward/Tier4/52/HeroicRewardTier4_MetaPlateArmor52Mag_2.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 								<upgraderChance>1</upgraderChance>
 								<stateChances>
 									<Item>0</Item>
@@ -139,7 +139,7 @@
 						</Item>
 						<Item>
 							<lootTable type="gameMechanics.constructor.schemes.item.LootTableMeta">
-								<item href="/Items/HeroicInstancesReward/Tier4/51/HeroicRewardTier4_MetaPlateArmor51Phys_1.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+								<item href="/Items/HeroicInstancesReward/Tier4/52/HeroicRewardTier4_MetaPlateArmor52Phys_1.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 								<upgraderChance>1</upgraderChance>
 								<stateChances>
 									<Item>0</Item>
@@ -154,7 +154,7 @@
 						</Item>
 						<Item>
 							<lootTable type="gameMechanics.constructor.schemes.item.LootTableMeta">
-								<item href="/Items/HeroicInstancesReward/Tier4/51/HeroicRewardTier4_MetaPlateArmor51Phys_2.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+								<item href="/Items/HeroicInstancesReward/Tier4/52/HeroicRewardTier4_MetaPlateArmor52Phys_2.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
 								<upgraderChance>1</upgraderChance>
 								<stateChances>
 									<Item>0</Item>
