@@ -16,6 +16,15 @@
 	<faction href="/World/Factions/Undeads.xdb#xpointer(/gameMechanics.world.creature.Faction)" />
 	<usesWeapon>true</usesWeapon>
 	<lootTable href="/Items/Mechanics/BossLoot/Inst_PlagueCastle_Heroic/PC_Boss1Loot_Heroic.(LootTableResource).xdb#xpointer(/gameMechanics.constructor.schemes.item.LootTableResource)" />
+    <personalLootTable>
+    	<Item>
+            <item href="/Mechanics/Runes/CrystalCrumb.xdb#xpointer(/gameMechanics.constructor.schemes.item.ItemResource)" />
+            <number>
+                <min>250</min>
+                <max>1000</max>
+            </number>
+        </Item>
+    </personalLootTable>
 	<quality href="/Mechanics/MobQualities/Boss.xdb#xpointer(/gameMechanics.world.mob.MobQuality)" />
 	<leashData>
 		<leashRange>50</leashRange>
@@ -32,9 +41,9 @@
 		<Item href="/Mechanics/Spells/PlagueCastle/ZombieEliteBoss/DeathTrigger/heroic_ZombieEliteBossDeathTrigger.(AbilityResource).xdb#xpointer(/gameMechanics.constructor.schemes.ability.AbilityResource)" />
 	</personalAbilities>
 	<levelMax type="gameMechanics.formulas.IntConstantValue">
-		<value>40</value>
+		<value>56</value>
 	</levelMax>
 	<levelMin type="gameMechanics.formulas.IntConstantValue">
-		<value>40</value>
+		<value>56</value>
 	</levelMin>
 </gameMechanics.world.mob.MobWorld>
