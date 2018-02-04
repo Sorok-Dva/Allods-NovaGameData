@@ -46,7 +46,7 @@
 		<casterResources>
 			<Item type="gameMechanics.elements.resources.ResourceMana">
 				<hideText>false</hideText>
-				<mana>60</mana>
+				<mana>40</mana>
 				<scaleByWeaponSpeed>false</scaleByWeaponSpeed>
 				<source>Mainhand</source>
 				<manaType>
