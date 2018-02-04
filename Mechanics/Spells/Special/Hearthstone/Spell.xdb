@@ -25,5 +25,16 @@
 	<needInGroup>false</needInGroup>
 	<launchWhenReady>false</launchWhenReady>
 	<needInFront>false</needInFront>
-	<mechanics type="gameMechanics.constructor.schemes.spell.SpellMechanics" />
+	<mechanics type="gameMechanics.constructor.schemes.spell.SpellMechanics">
+		<casterImpacts>
+			<Item type="clientCmds.cmds.ImpactConsoleCmd">
+				<command>gameMechanics.clientCommands.cheats.CmdTeleport</command>
+				<params>
+					<Item>10574.8</Item>
+					<Item>12683.3</Item>
+					<Item>131.4</Item>
+				</params>
+			</Item>
+		</casterImpacts>
+	</mechanics>
 </gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf>

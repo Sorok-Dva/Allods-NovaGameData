@@ -11,20 +11,20 @@
 	<effects>
 		<Item type="gameMechanics.elements.effects.EffectMountSpeedModifier">
 			<effectScaler type="gameMechanics.elements.scalers.ExponentialEffectScaler">
-				<base>1.2</base>
+				<base>5.2</base>
 			</effectScaler>
 			<defaultSpeedModifier>false</defaultSpeedModifier>
 		</Item>
 	</effects>
-	<duration>4000</duration>
-	<isStackable>false</isStackable>
-	<stackLimit>1</stackLimit>
-	<isGradual>false</isGradual>
+	<duration>10000</duration>
+	<isStackable>true</isStackable>
+	<stackLimit>10</stackLimit>
+	<isGradual>true</isGradual>
 	<isHelpful>true</isHelpful>
 	<groups>
 		<Item href="/Mechanics/Spells/Groups/MountedBuffs.xdb#xpointer(/gameMechanics.constructor.basicInterfaces.ActionGroup)" />
 	</groups>
-	<isDetachableOnWill>false</isDetachableOnWill>
+	<isDetachableOnWill>true</isDetachableOnWill>
 	<isMultiple>false</isMultiple>
 	<canBeSaved>false</canBeSaved>
 	<isClientReplicated>true</isClientReplicated>

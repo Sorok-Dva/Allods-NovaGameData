@@ -27,9 +27,9 @@
 		<Item href="/Mechanics/Spells/QuestSpells/GurluhsorTower/Watcher.(AbilityResource).xdb#xpointer(/gameMechanics.constructor.schemes.ability.AbilityResource)" />
 	</personalAbilities>
 	<levelMax type="gameMechanics.formulas.IntConstantValue">
-		<value>40</value>
+		<value>56</value>
 	</levelMax>
 	<levelMin type="gameMechanics.formulas.IntConstantValue">
-		<value>40</value>
+		<value>56</value>
 	</levelMin>
 </gameMechanics.world.mob.MobWorld>
