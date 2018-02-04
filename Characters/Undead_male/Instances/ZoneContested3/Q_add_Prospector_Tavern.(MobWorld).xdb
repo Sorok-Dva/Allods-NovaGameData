@@ -22,8 +22,8 @@
 			<Item href="/World/Quests/ZoneContested3/Q_add_08/Q_add_08.xdb#xpointer(/gameMechanics.constructor.schemes.quest.QuestResource)" />
 			<Item href="/World/Quests/ZoneContested3/Q_add_06/Q_add_06.xdb#xpointer(/gameMechanics.constructor.schemes.quest.QuestResource)" />
 			<Item href="/World/Quests/ZoneContested3/Inspect_29lvl/Inspect_29lvl.xdb#xpointer(/gameMechanics.constructor.schemes.quest.QuestResource)" />
-			<!--<Item href="/World/Quests/ZoneContested3/IM_LootersTutorial/IM_LootersTutorial.(QuestResource).xdb#xpointer(/gameMechanics.constructor.schemes.quest.QuestResource)" />-->
-			<!--<Item href="/World/Quests/ZoneContested3/P2P_LootersTutorial/P2P_LootersTutorial.(QuestResource).xdb#xpointer(/gameMechanics.constructor.schemes.quest.QuestResource)" />-->
+			<Item href="/World/Quests/ZoneContested3/IM_LootersTutorial/IM_LootersTutorial.(QuestResource).xdb#xpointer(/gameMechanics.constructor.schemes.quest.QuestResource)" />
+			<Item href="/World/Quests/ZoneContested3/P2P_LootersTutorial/P2P_LootersTutorial.(QuestResource).xdb#xpointer(/gameMechanics.constructor.schemes.quest.QuestResource)" />
 		</availableQuests>
 		<cues>
 			<Item>

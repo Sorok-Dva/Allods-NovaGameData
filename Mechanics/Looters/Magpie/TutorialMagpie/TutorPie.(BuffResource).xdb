@@ -13,7 +13,7 @@
 			<spell href="Spell01.xdb#xpointer(/gameMechanics.constructor.schemes.spell.casterSelf.SpellCasterSelf)" />
 		</Item>
 	</effects>
-	<duration>25920000</duration>
+	<duration>18000000</duration>
 	<isHelpful>false</isHelpful>
 	<decayPolicy>NoOfflineDecay</decayPolicy>
 	<groups>
