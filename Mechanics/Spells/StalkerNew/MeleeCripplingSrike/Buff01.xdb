@@ -4,7 +4,7 @@
 		<resourceId>252173345</resourceId>
 		<Prototype href="Buff.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)" />
 		<Variables>
-			<damagePerTick>5.77</damagePerTick>
+			<damagePerTick>8.4777</damagePerTick>
 		</Variables>
 	</Header>
 	<Name href="Buff01_Name.txt" />
