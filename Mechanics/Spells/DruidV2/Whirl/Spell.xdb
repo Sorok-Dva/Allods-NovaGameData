@@ -21,7 +21,7 @@
 		<value>40</value>
 	</range>
 	<level>1</level>
-	<prepareDuration>2000</prepareDuration>
+	<prepareDuration>0</prepareDuration>
 	<immutablePrepareDuration>false</immutablePrepareDuration>
 	<needLos>true</needLos>
 	<element>LIGHTNING</element>

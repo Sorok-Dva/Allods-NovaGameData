@@ -4,6 +4,7 @@
 		<resourceId>164524068</resourceId>
 		<Prototype href="Spell.xdb#xpointer(/gameMechanics.constructor.schemes.spell.singleTarget.SpellSingleTarget)" />
 		<Variables>
+			<duration>2000</duration>
 			<value>5</value>
 			<buff>/Mechanics/Spells/DruidV2/BuffStatic/Buff03.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)</buff>
 			<bu_1>Buff03.xdb#xpointer(/gameMechanics.constructor.schemes.buff.BuffResource)</bu_1>
