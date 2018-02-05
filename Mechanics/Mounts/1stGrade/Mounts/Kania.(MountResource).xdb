@@ -10,7 +10,7 @@
 	<health>0.1</health>
 	<healthDelta>0.0</healthDelta>
 	<regen>0.1</regen>
-	<prepareDuration>100</prepareDuration>
+	<prepareDuration>800</prepareDuration>
 	<prepareDurationDelta>50</prepareDurationDelta>
 	<basicSkin href="/Mechanics/Mounts/Skins/Horses/Kania.(MountSkin).xdb#xpointer(/gameMechanics.constructor.schemes.mount.MountSkin)" />
 	<alternativeSkins>

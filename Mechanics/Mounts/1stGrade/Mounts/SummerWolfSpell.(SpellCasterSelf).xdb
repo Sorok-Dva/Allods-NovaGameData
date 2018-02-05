@@ -9,7 +9,7 @@
 	<visualScripts href="/Spells/VisScripts/Common/Use.(SpellVisScripts).xdb#xpointer(/SpellVisScripts)" />
 	<nameTemplate href="SummerWolfSpell.(SpellCasterSelf)_Name.txt.template" />
 	<descTemplate href="SummerWolfSpell.(SpellCasterSelf)_Desc.txt.template" />
-	<prepareDuration>100</prepareDuration>
+	<prepareDuration>800</prepareDuration>
 	<needLos>false</needLos>
 	<targetType>STTSelf</targetType>
 	<iffPolicy>Friends</iffPolicy>

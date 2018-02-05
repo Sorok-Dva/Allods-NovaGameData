@@ -7,10 +7,10 @@
 	<grade>1</grade>
 	<speed>4.05</speed>
 	<speedDelta>0.0</speedDelta>
-	<health>0.1</health>
-	<healthDelta>0.0</healthDelta>
+	<health>1.5</health>
+	<healthDelta>0.05</healthDelta>
 	<regen>0.1</regen>
-	<prepareDuration>100</prepareDuration>
+	<prepareDuration>800</prepareDuration>
 	<prepareDurationDelta>50</prepareDurationDelta>
 	<ridingEffects>
 		<Item type="gameMechanics.elements.effects.ImmunityToBuffs">
